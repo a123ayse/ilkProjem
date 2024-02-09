@@ -1,1 +1,1 @@
-İlk Küçük Flutter Projem
+Flutter ile geliştirdiğim ilk basit uygulamamı paylaşmanın heyecanını yaşıyorum. Bu projede, temel becerilerimi sergileyerek uygulama geliştirme sürecindeki ilk adımlarımı atmış bulunuyorum. Amacım, bu deneyimden ilham alarak daha gelişmiş ve kaliteli projeleri hayata geçirmek ve bu platformda paylaşmaktır.
